@@ -13,3 +13,7 @@ It can be used in both simulator and devices. Tested with Xcode 4.1.1 on Mac OS 
 3. In your target -> Build Phases -> Link Binary With Libraries, add `libxml2.dylib`
 4. To use the `gdata` classes, just add the following line in your header file: `#import "GData.h"`
 5. Done
+
+## Need Help?
+
+Open a [github issue](https://github.com/hoishing/GData-iOS-Static-Library-1.12/issues) or ping me on [Twitter](https://twitter.com/hoishing) ![](https://api.iconify.design/logos/twitter.svg?width=20)
